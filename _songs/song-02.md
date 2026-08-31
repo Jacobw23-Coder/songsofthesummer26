@@ -1,17 +1,12 @@
 ---
 song_number: 2
-title: "Song Title 02"
-performer: "Performer Name"
-rating: 0
+title: "Fortworth"
+performer: "Drake featuring PARTYNEXTDOOR"
+rating: 4.4
 ---
 
-_This is a placeholder page. Replace the front matter above with the song's real
-title, performer, and your rating (0-5), then replace this body text with your
-own review, written in Markdown._
+Coming in at number two, Drake and frequent collaborator, PARTYNEXTDOOR, team up for a low tempo, ambient track that is perfect for summer nights alone. This one is less of a get up and dance club anthem, but scratches a different itch that Drake and PND fans have come to know and love. This is the pair's first collaboration since the release of their joint 2025 album, $ome $exy $ongs 4U.
 
-Write a first paragraph introducing the song: when it came out, the vibe it
-has, and why it earns a spot on your Songs of the Summer list.
+If you are a fan of RNB, moody tracks, Drake and PARTYNEXYDOOR, this song will surely make your summer late-night playlist.
 
-Write a second paragraph going deeper &mdash; the lyrics, the production, a
-memory it's tied to, or how it compares to other songs on the list. Add as
-many paragraphs as you like; this is just a starting point.
+
