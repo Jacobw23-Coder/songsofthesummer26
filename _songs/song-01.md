@@ -1,17 +1,11 @@
 ---
 song_number: 1
-title: "Song Title 01"
-performer: "Performer Name"
-rating: 0
+title: "Road Trips"
+performer: "Drake"
+rating: 4.5
 ---
 
-_This is a placeholder page. Replace the front matter above with the song's real
-title, performer, and your rating (0-5), then replace this body text with your
-own review, written in Markdown._
+"Road Trips" by the largest artist in his respective genre is the perfect mix of airy pop/rap and the classic Drake flows that Hip-Hop fans have loved for nearly two decades. While not the most streamed or popular song on the album, "Maid of Honor," Road trips is perfect for an evening drive under a golden sunset.
 
-Write a first paragraph introducing the song: when it came out, the vibe it
-has, and why it earns a spot on your Songs of the Summer list.
+The track features jumpy, dance hall production, with backing vocals from Texas-based Hip-Hop newcomer, Teezo Touchdown, who has frequently been featured throughout Drake's catalogue. As the name suggests, a summer roadtrip would not be complete without this one. 
 
-Write a second paragraph going deeper &mdash; the lyrics, the production, a
-memory it's tied to, or how it compares to other songs on the list. Add as
-many paragraphs as you like; this is just a starting point.
