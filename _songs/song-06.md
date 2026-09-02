@@ -1,8 +1,8 @@
 ---
 song_number: 6
-title: "Song Title 06"
-performer: "Performer Name"
-rating: 0
+title: "All The Signs"
+performer: "Don Toliver featuring Teezo Touchdown"
+rating: 4
 ---
 
 _This is a placeholder page. Replace the front matter above with the song's real
