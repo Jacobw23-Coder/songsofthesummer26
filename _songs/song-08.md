@@ -1,8 +1,8 @@
 ---
 song_number: 8
-title: "Song Title 08"
-performer: "Performer Name"
-rating: 0
+title: "Rosary"
+performer: "Don Toliver featuring Travis Scott"
+rating: 3.9
 ---
 
 _This is a placeholder page. Replace the front matter above with the song's real
