@@ -1,8 +1,8 @@
 ---
 song_number: 7
-title: "Song Title 07"
-performer: "Performer Name"
-rating: 0
+title: "Rendezvous"
+performer: "Don Toliver featuring Yeat"
+rating: 3.9
 ---
 
 _This is a placeholder page. Replace the front matter above with the song's real
