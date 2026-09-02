@@ -1,8 +1,8 @@
 ---
 song_number: 10
-title: "Song Title 10"
-performer: "Performer Name"
-rating: 0
+title: "OK"
+performer: "Kanye West featuring Don Toliver"
+rating: 3.6
 ---
 
 _This is a placeholder page. Replace the front matter above with the song's real
