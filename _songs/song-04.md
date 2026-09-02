@@ -1,8 +1,8 @@
 ---
 song_number: 4
-title: "Song Title 04"
-performer: "Performer Name"
-rating: 0
+title: "White Bone"
+performer: "Drake"
+rating: 4.1
 ---
 
 _This is a placeholder page. Replace the front matter above with the song's real
