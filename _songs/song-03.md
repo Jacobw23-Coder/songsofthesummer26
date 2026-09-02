@@ -1,8 +1,8 @@
 ---
 song_number: 3
-title: "Song Title 03"
-performer: "Performer Name"
-rating: 0
+title: "The Feeling"
+performer: "Steve Lacey"
+rating: 4.2
 ---
 
 _This is a placeholder page. Replace the front matter above with the song's real
