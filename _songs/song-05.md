@@ -1,8 +1,8 @@
 ---
 song_number: 5
-title: "Song Title 05"
-performer: "Performer Name"
-rating: 0
+title: "Harvest Sky"
+performer: "Oklou, underscores"
+rating: 4
 ---
 
 _This is a placeholder page. Replace the front matter above with the song's real
